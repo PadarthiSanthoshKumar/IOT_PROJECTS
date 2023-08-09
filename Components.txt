@@ -1,0 +1,19 @@
+Air Pollution Monitoring System:
+1.Aurdino Uno
+2.Small Bread Board
+3.Potentiometer
+4.Gas Sensor(PM9 is recommended)
+5.Connecting Wires
+6.Resistors
+7.LCD
+
+
+Smart Parking System:
+1.Aurdino UNO
+2.small Bread Board
+3. Microservo
+4.Push Buttons
+5.Potentiometer 
+6.Connecting Wires
+7.Resistors
+8.LCD
